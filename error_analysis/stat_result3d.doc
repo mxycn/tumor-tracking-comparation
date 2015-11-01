@@ -1,0 +1,159 @@
+Beginning - parameters: 
+  is_pre: 1, is_block: 0, factor1: 4.0, factor2: 0.2, factor3: 1.4, seg_err: 0.5,
+  lag_time: 310, linearity constraint: 0.01, amplitude variation: 4 
+No.(1) std: 2.73 est rms: 0.64 pred rms: 1.40 devp: 1.22; p95_3d: 1.31 p95_2d: 1.02 p99_3d: 1.62 p99_2d: 1.32 nfail3: 0.68 nfail2: 0.38;n_seg: 36
+No.(2) std: 2.36 est rms: 0.64 pred rms: 0.96 devp: 0.76; p95_3d: 0.92 p95_2d: 0.93 p99_3d: 1.14 p99_2d: 1.22 nfail3: 0.05 nfail2: 0.00;n_seg: 64
+No.(3) std: 1.29 est rms: 0.72 pred rms: 1.09 devp: 0.87; p95_3d: 1.02 p95_2d: 0.91 p99_3d: 1.21 p99_2d: 1.14 nfail3: 1.58 nfail2: 0.71;n_seg: 66
+No.(4) std: 1.52 est rms: 0.57 pred rms: 0.70 devp: 0.58; p95_3d: 0.85 p95_2d: 0.74 p99_3d: 1.05 p99_2d: 0.95 nfail3: 0.04 nfail2: 0.01;n_seg: 219
+No.(5) std: 2.50 est rms: 0.91 pred rms: 1.25 devp: 0.89; p95_3d: 0.98 p95_2d: 0.96 p99_3d: 1.19 p99_2d: 1.22 nfail3: 1.34 nfail2: 0.42;n_seg: 210
+No.(6) std: 2.39 est rms: 0.68 pred rms: 1.09 devp: 0.81; p95_3d: 0.92 p95_2d: 0.99 p99_3d: 1.13 p99_2d: 1.26 nfail3: 0.36 nfail2: 0.04;n_seg: 40
+No.(7) std: 0.68 est rms: 0.57 pred rms: 0.57 devp: 0.45; p95_3d: 0.74 p95_2d: 0.70 p99_3d: 0.88 p99_2d: 0.86 nfail3: 0.00 nfail2: 0.00;n_seg: 187
+No.(8) std: 0.77 est rms: 0.91 pred rms: 0.88 devp: 0.50; p95_3d: 0.64 p95_2d: 0.81 p99_3d: 0.79 p99_2d: 1.01 nfail3: 0.10 nfail2: 0.00;n_seg: 72
+No.(9) std: 1.78 est rms: 0.58 pred rms: 0.87 devp: 0.75; p95_3d: 0.98 p95_2d: 0.79 p99_3d: 1.19 p99_2d: 1.02 nfail3: 0.05 nfail2: 0.00;n_seg: 76
+No.(10) std: 2.65 est rms: 1.09 pred rms: 1.61 devp: 1.09; p95_3d: 0.97 p95_2d: 1.17 p99_3d: 1.19 p99_2d: 1.48 nfail3: 5.25 nfail2: 0.95;n_seg: 58
+No.(11) std: 2.32 est rms: 0.59 pred rms: 0.98 devp: 0.84; p95_3d: 1.03 p95_2d: 0.87 p99_3d: 1.30 p99_2d: 1.18 nfail3: 0.21 nfail2: 0.15;n_seg: 133
+No.(12) std: 0.91 est rms: 0.77 pred rms: 0.81 devp: 0.51; p95_3d: 0.67 p95_2d: 0.80 p99_3d: 0.82 p99_2d: 0.99 nfail3: 0.21 nfail2: 0.00;n_seg: 78
+No.(13) std: 1.46 est rms: 0.53 pred rms: 0.73 devp: 0.65; p95_3d: 0.96 p95_2d: 0.72 p99_3d: 1.16 p99_2d: 0.91 nfail3: 0.03 nfail2: 0.02;n_seg: 176
+No.(14) std: 1.26 est rms: 0.69 pred rms: 0.75 devp: 0.56; p95_3d: 0.80 p95_2d: 0.78 p99_3d: 0.95 p99_2d: 0.97 nfail3: 0.07 nfail2: 0.00;n_seg: 72
+No.(15) std: 4.33 est rms: 0.65 pred rms: 1.64 devp: 1.39; p95_3d: 1.32 p95_2d: 1.20 p99_3d: 1.72 p99_2d: 1.66 nfail3: 5.03 nfail2: 3.01;n_seg: 79
+No.(16) std: 0.00 est rms: 0.00 pred rms: 0.00 devp: 0.00; p95_3d: 0.00 p95_2d: 0.00 p99_3d: 0.00 p99_2d: 0.00 nfail3: 0.00 nfail2: 0.00;n_seg: 0
+No.(17) std: 3.96 est rms: 0.91 pred rms: 1.53 devp: 1.12; p95_3d: 1.04 p95_2d: 1.15 p99_3d: 1.34 p99_2d: 1.61 nfail3: 3.46 nfail2: 0.87;n_seg: 54
+No.(18) std: 2.69 est rms: 0.78 pred rms: 1.36 devp: 1.01; p95_3d: 0.99 p95_2d: 1.09 p99_3d: 1.24 p99_2d: 1.50 nfail3: 2.54 nfail2: 0.46;n_seg: 13
+No.(19) std: 0.39 est rms: 0.76 pred rms: 0.67 devp: 0.40; p95_3d: 0.62 p95_2d: 0.72 p99_3d: 0.75 p99_2d: 0.89 nfail3: 0.00 nfail2: 0.00;n_seg: 22
+No.(20) std: 3.94 est rms: 0.59 pred rms: 1.80 devp: 1.55; p95_3d: 1.38 p95_2d: 1.23 p99_3d: 1.75 p99_2d: 1.71 nfail3: 6.99 nfail2: 4.78;n_seg: 40
+No.(21) std: 0.39 est rms: 0.74 pred rms: 0.67 devp: 0.42; p95_3d: 0.67 p95_2d: 0.72 p99_3d: 0.81 p99_2d: 0.87 nfail3: 0.00 nfail2: 0.00;n_seg: 43
+No.(22) std: 3.84 est rms: 0.77 pred rms: 1.93 devp: 1.72; p95_3d: 1.58 p95_2d: 1.11 p99_3d: 2.04 p99_2d: 1.43 nfail3: 10.26 nfail2: 7.43;n_seg: 34
+No.(23) std: 1.55 est rms: 0.96 pred rms: 1.11 devp: 0.65; p95_3d: 0.72 p95_2d: 0.93 p99_3d: 0.88 p99_2d: 1.16 nfail3: 0.95 nfail2: 0.00;n_seg: 38
+No.(24) std: 0.00 est rms: 0.00 pred rms: 0.00 devp: 0.00; p95_3d: 0.00 p95_2d: 0.00 p99_3d: 0.00 p99_2d: 0.00 nfail3: 0.00 nfail2: 0.00;n_seg: 0
+No.(25) std: 1.81 est rms: 1.74 pred rms: 1.87 devp: 0.95; p95_3d: 0.81 p95_2d: 1.14 p99_3d: 0.97 p99_2d: 1.49 nfail3: 7.38 nfail2: 0.12;n_seg: 102
+No.(26) std: 1.66 est rms: 0.56 pred rms: 0.84 devp: 0.71; p95_3d: 0.93 p95_2d: 0.80 p99_3d: 1.20 p99_2d: 1.07 nfail3: 0.30 nfail2: 0.18;n_seg: 82
+No.(27) std: 2.89 est rms: 0.54 pred rms: 1.23 devp: 1.08; p95_3d: 1.17 p95_2d: 0.98 p99_3d: 1.55 p99_2d: 1.32 nfail3: 1.66 nfail2: 1.11;n_seg: 74
+No.(28) std: 2.23 est rms: 1.31 pred rms: 1.55 devp: 0.96; p95_3d: 0.96 p95_2d: 1.08 p99_3d: 1.26 p99_2d: 1.40 nfail3: 4.13 nfail2: 0.06;n_seg: 88
+No.(29) std: 3.35 est rms: 0.96 pred rms: 1.36 devp: 0.97; p95_3d: 1.04 p95_2d: 1.00 p99_3d: 1.35 p99_2d: 1.31 nfail3: 1.44 nfail2: 0.24;n_seg: 166
+No.(30) std: 1.04 est rms: 0.65 pred rms: 0.72 devp: 0.51; p95_3d: 0.71 p95_2d: 0.78 p99_3d: 0.87 p99_2d: 0.98 nfail3: 0.03 nfail2: 0.00;n_seg: 87
+No.(31) std: 0.23 est rms: 0.65 pred rms: 0.57 devp: 0.39; p95_3d: 0.67 p95_2d: 0.68 p99_3d: 0.80 p99_2d: 0.82 nfail3: 0.00 nfail2: 0.00;n_seg: 35
+No.(32) std: 1.38 est rms: 0.89 pred rms: 1.37 devp: 1.02; p95_3d: 0.99 p95_2d: 1.09 p99_3d: 1.20 p99_2d: 1.36 nfail3: 1.22 nfail2: 0.24;n_seg: 85
+No.(33) std: 3.30 est rms: 1.63 pred rms: 2.19 devp: 1.39; p95_3d: 1.20 p95_2d: 1.30 p99_3d: 1.45 p99_2d: 1.64 nfail3: 11.92 nfail2: 1.66;n_seg: 102
+No.(34) std: 1.23 est rms: 0.59 pred rms: 0.69 devp: 0.53; p95_3d: 0.77 p95_2d: 0.77 p99_3d: 0.93 p99_2d: 0.97 nfail3: 0.02 nfail2: 0.02;n_seg: 54
+No.(35) std: 1.25 est rms: 0.64 pred rms: 0.77 devp: 0.59; p95_3d: 0.83 p95_2d: 0.81 p99_3d: 1.01 p99_2d: 0.99 nfail3: 0.00 nfail2: 0.00;n_seg: 28
+No.(36) std: 0.84 est rms: 0.85 pred rms: 1.07 devp: 0.68; p95_3d: 0.77 p95_2d: 0.97 p99_3d: 0.91 p99_2d: 1.18 nfail3: 0.50 nfail2: 0.00;n_seg: 26
+No.(37) std: 1.63 est rms: 0.63 pred rms: 1.00 devp: 0.80; p95_3d: 0.95 p95_2d: 0.89 p99_3d: 1.20 p99_2d: 1.20 nfail3: 0.78 nfail2: 0.28;n_seg: 71
+No.(38) std: 0.00 est rms: 0.00 pred rms: 0.00 devp: 0.00; p95_3d: 0.00 p95_2d: 0.00 p99_3d: 0.00 p99_2d: 0.00 nfail3: 0.00 nfail2: 0.00;n_seg: 0
+No.(39) std: 2.40 est rms: 0.68 pred rms: 1.31 devp: 1.07; p95_3d: 1.08 p95_2d: 1.03 p99_3d: 1.35 p99_2d: 1.40 nfail3: 3.59 nfail2: 1.83;n_seg: 58
+No.(40) std: 1.41 est rms: 1.12 pred rms: 1.31 devp: 0.78; p95_3d: 0.68 p95_2d: 1.07 p99_3d: 0.84 p99_2d: 1.45 nfail3: 3.13 nfail2: 0.76;n_seg: 48
+No.(41) std: 1.20 est rms: 0.58 pred rms: 0.73 devp: 0.59; p95_3d: 0.83 p95_2d: 0.77 p99_3d: 1.02 p99_2d: 0.99 nfail3: 0.07 nfail2: 0.07;n_seg: 71
+No.(42) std: 4.79 est rms: 0.97 pred rms: 2.32 devp: 1.85; p95_3d: 1.39 p95_2d: 1.41 p99_3d: 1.71 p99_2d: 1.77 nfail3: 27.12 nfail2: 18.46;n_seg: 45
+No.(43) std: 2.91 est rms: 0.64 pred rms: 1.24 devp: 1.00; p95_3d: 1.09 p95_2d: 1.02 p99_3d: 1.36 p99_2d: 1.29 nfail3: 1.13 nfail2: 0.21;n_seg: 102
+No.(44) std: 0.00 est rms: 0.00 pred rms: 0.00 devp: 0.00; p95_3d: 0.00 p95_2d: 0.00 p99_3d: 0.00 p99_2d: 0.00 nfail3: 0.00 nfail2: 0.00;n_seg: 0
+No.(45) std: 3.27 est rms: 0.56 pred rms: 1.14 devp: 1.01; p95_3d: 1.14 p95_2d: 0.93 p99_3d: 1.40 p99_2d: 1.28 nfail3: 1.57 nfail2: 1.09;n_seg: 135
+No.(46) std: 1.90 est rms: 0.63 pred rms: 0.97 devp: 0.83; p95_3d: 0.99 p95_2d: 0.85 p99_3d: 1.27 p99_2d: 1.13 nfail3: 0.15 nfail2: 0.05;n_seg: 56
+results: n_segments=3325, percentage=0.93, std of the positions: 2.058;
+ Patient_averaged: 3D estimation error, 0.782, 3D rms error: 1.159, 2D rms error: 0.868 
+ percentile error:  p95_3d=0.95, p95_2d=0.95, p99_3d=1.19, p99_2d=1.22, nfail3: 2.51  nfail2: 1.09 
+ end 
+Beginning - parameters: 
+  is_pre: 1, is_block: 0, factor1: 4.0, factor2: 0.2, factor3: 1.4, seg_err: 0.5,
+  lag_time: 155, linearity constraint: 0.01, amplitude variation: 4 
+No.(1) std: 2.73 est rms: 0.64 pred rms: 0.91 devp: 0.76; p95_3d: 1.01 p95_2d: 0.84 p99_3d: 1.28 p99_2d: 1.06 nfail3: 0.07 nfail2: 0.03;n_seg: 36
+No.(2) std: 2.36 est rms: 0.64 pred rms: 0.75 devp: 0.56; p95_3d: 0.81 p95_2d: 0.79 p99_3d: 0.99 p99_2d: 1.02 nfail3: 0.03 nfail2: 0.00;n_seg: 64
+No.(3) std: 1.29 est rms: 0.71 pred rms: 0.98 devp: 0.76; p95_3d: 0.94 p95_2d: 0.84 p99_3d: 1.13 p99_2d: 1.04 nfail3: 2.74 nfail2: 0.96;n_seg: 66
+No.(4) std: 1.52 est rms: 0.58 pred rms: 0.57 devp: 0.45; p95_3d: 0.76 p95_2d: 0.65 p99_3d: 0.92 p99_2d: 0.82 nfail3: 0.03 nfail2: 0.00;n_seg: 219
+No.(5) std: 2.50 est rms: 0.90 pred rms: 1.02 devp: 0.65; p95_3d: 0.83 p95_2d: 0.84 p99_3d: 1.01 p99_2d: 1.04 nfail3: 0.79 nfail2: 0.07;n_seg: 210
+No.(6) std: 2.39 est rms: 0.68 pred rms: 0.79 devp: 0.55; p95_3d: 0.78 p95_2d: 0.80 p99_3d: 0.94 p99_2d: 0.99 nfail3: 0.00 nfail2: 0.00;n_seg: 40
+No.(7) std: 0.68 est rms: 0.56 pred rms: 0.51 devp: 0.41; p95_3d: 0.71 p95_2d: 0.66 p99_3d: 0.85 p99_2d: 0.80 nfail3: 0.00 nfail2: 0.00;n_seg: 187
+No.(8) std: 0.77 est rms: 0.85 pred rms: 0.80 devp: 0.43; p95_3d: 0.63 p95_2d: 0.74 p99_3d: 0.76 p99_2d: 0.91 nfail3: 0.12 nfail2: 0.00;n_seg: 72
+No.(9) std: 1.78 est rms: 0.58 pred rms: 0.65 devp: 0.53; p95_3d: 0.84 p95_2d: 0.69 p99_3d: 1.01 p99_2d: 0.88 nfail3: 0.00 nfail2: 0.00;n_seg: 76
+No.(10) std: 2.65 est rms: 1.08 pred rms: 1.27 devp: 0.73; p95_3d: 0.83 p95_2d: 0.94 p99_3d: 1.01 p99_2d: 1.21 nfail3: 2.67 nfail2: 0.02;n_seg: 58
+No.(11) std: 2.32 est rms: 0.59 pred rms: 0.71 devp: 0.58; p95_3d: 0.86 p95_2d: 0.75 p99_3d: 1.08 p99_2d: 0.95 nfail3: 0.05 nfail2: 0.02;n_seg: 133
+No.(12) std: 0.91 est rms: 0.77 pred rms: 0.76 devp: 0.45; p95_3d: 0.65 p95_2d: 0.75 p99_3d: 0.79 p99_2d: 0.91 nfail3: 0.17 nfail2: 0.01;n_seg: 78
+No.(13) std: 1.46 est rms: 0.53 pred rms: 0.54 devp: 0.47; p95_3d: 0.82 p95_2d: 0.62 p99_3d: 0.98 p99_2d: 0.79 nfail3: 0.00 nfail2: 0.00;n_seg: 176
+No.(14) std: 1.26 est rms: 0.69 pred rms: 0.67 devp: 0.46; p95_3d: 0.74 p95_2d: 0.70 p99_3d: 0.89 p99_2d: 0.86 nfail3: 0.13 nfail2: 0.00;n_seg: 72
+No.(15) std: 4.33 est rms: 0.65 pred rms: 1.04 devp: 0.85; p95_3d: 1.02 p95_2d: 0.93 p99_3d: 1.36 p99_2d: 1.23 nfail3: 0.37 nfail2: 0.13;n_seg: 79
+No.(16) std: 0.00 est rms: 0.00 pred rms: 0.00 devp: 0.00; p95_3d: 0.00 p95_2d: 0.00 p99_3d: 0.00 p99_2d: 0.00 nfail3: 0.00 nfail2: 0.00;n_seg: 0
+No.(17) std: 3.96 est rms: 0.92 pred rms: 1.14 devp: 0.73; p95_3d: 0.85 p95_2d: 0.94 p99_3d: 1.09 p99_2d: 1.22 nfail3: 1.59 nfail2: 0.06;n_seg: 54
+No.(18) std: 2.69 est rms: 0.78 pred rms: 0.97 devp: 0.67; p95_3d: 0.82 p95_2d: 0.88 p99_3d: 1.04 p99_2d: 1.14 nfail3: 0.46 nfail2: 0.00;n_seg: 13
+No.(19) std: 0.39 est rms: 0.72 pred rms: 0.64 devp: 0.38; p95_3d: 0.60 p95_2d: 0.70 p99_3d: 0.71 p99_2d: 0.83 nfail3: 0.00 nfail2: 0.00;n_seg: 22
+No.(20) std: 3.94 est rms: 0.59 pred rms: 1.14 devp: 0.96; p95_3d: 1.09 p95_2d: 0.97 p99_3d: 1.42 p99_2d: 1.33 nfail3: 0.67 nfail2: 0.31;n_seg: 40
+No.(21) std: 0.39 est rms: 0.66 pred rms: 0.59 devp: 0.40; p95_3d: 0.67 p95_2d: 0.70 p99_3d: 0.81 p99_2d: 0.82 nfail3: 0.00 nfail2: 0.00;n_seg: 43
+No.(22) std: 3.84 est rms: 0.77 pred rms: 1.28 devp: 1.06; p95_3d: 1.20 p95_2d: 0.94 p99_3d: 1.60 p99_2d: 1.20 nfail3: 1.15 nfail2: 0.62;n_seg: 34
+No.(23) std: 1.55 est rms: 0.98 pred rms: 1.02 devp: 0.51; p95_3d: 0.69 p95_2d: 0.81 p99_3d: 0.83 p99_2d: 0.98 nfail3: 0.43 nfail2: 0.00;n_seg: 38
+No.(24) std: 0.00 est rms: 0.00 pred rms: 0.00 devp: 0.00; p95_3d: 0.00 p95_2d: 0.00 p99_3d: 0.00 p99_2d: 0.00 nfail3: 0.00 nfail2: 0.00;n_seg: 0
+No.(25) std: 1.81 est rms: 1.77 pred rms: 1.83 devp: 0.75; p95_3d: 0.76 p95_2d: 0.99 p99_3d: 0.93 p99_2d: 1.31 nfail3: 9.10 nfail2: 0.05;n_seg: 102
+No.(26) std: 1.66 est rms: 0.57 pred rms: 0.63 devp: 0.51; p95_3d: 0.80 p95_2d: 0.70 p99_3d: 1.03 p99_2d: 0.89 nfail3: 0.01 nfail2: 0.01;n_seg: 82
+No.(27) std: 2.89 est rms: 0.54 pred rms: 0.77 devp: 0.66; p95_3d: 0.94 p95_2d: 0.76 p99_3d: 1.25 p99_2d: 1.01 nfail3: 0.05 nfail2: 0.02;n_seg: 74
+No.(28) std: 2.23 est rms: 1.30 pred rms: 1.39 devp: 0.72; p95_3d: 0.85 p95_2d: 0.91 p99_3d: 1.10 p99_2d: 1.19 nfail3: 3.71 nfail2: 0.01;n_seg: 88
+No.(29) std: 3.35 est rms: 0.96 pred rms: 1.09 devp: 0.68; p95_3d: 0.88 p95_2d: 0.86 p99_3d: 1.11 p99_2d: 1.08 nfail3: 0.69 nfail2: 0.01;n_seg: 166
+No.(30) std: 1.04 est rms: 0.65 pred rms: 0.61 devp: 0.41; p95_3d: 0.66 p95_2d: 0.70 p99_3d: 0.82 p99_2d: 0.86 nfail3: 0.03 nfail2: 0.00;n_seg: 87
+No.(31) std: 0.23 est rms: 0.64 pred rms: 0.56 devp: 0.39; p95_3d: 0.68 p95_2d: 0.68 p99_3d: 0.81 p99_2d: 0.81 nfail3: 0.00 nfail2: 0.00;n_seg: 35
+No.(32) std: 1.38 est rms: 0.89 pred rms: 1.15 devp: 0.80; p95_3d: 0.88 p95_2d: 0.94 p99_3d: 1.10 p99_2d: 1.20 nfail3: 0.75 nfail2: 0.03;n_seg: 85
+No.(33) std: 3.30 est rms: 1.64 pred rms: 1.91 devp: 1.02; p95_3d: 1.03 p95_2d: 1.10 p99_3d: 1.31 p99_2d: 1.38 nfail3: 8.40 nfail2: 0.23;n_seg: 102
+No.(34) std: 1.23 est rms: 0.60 pred rms: 0.58 devp: 0.42; p95_3d: 0.70 p95_2d: 0.70 p99_3d: 0.84 p99_2d: 0.86 nfail3: 0.00 nfail2: 0.00;n_seg: 54
+No.(35) std: 1.25 est rms: 0.64 pred rms: 0.65 devp: 0.47; p95_3d: 0.75 p95_2d: 0.72 p99_3d: 0.90 p99_2d: 0.87 nfail3: 0.00 nfail2: 0.00;n_seg: 28
+No.(36) std: 0.84 est rms: 0.79 pred rms: 0.91 devp: 0.57; p95_3d: 0.73 p95_2d: 0.88 p99_3d: 0.88 p99_2d: 1.08 nfail3: 0.00 nfail2: 0.00;n_seg: 26
+No.(37) std: 1.63 est rms: 0.63 pred rms: 0.74 devp: 0.56; p95_3d: 0.82 p95_2d: 0.76 p99_3d: 1.05 p99_2d: 0.99 nfail3: 0.08 nfail2: 0.01;n_seg: 71
+No.(38) std: 0.00 est rms: 0.00 pred rms: 0.00 devp: 0.00; p95_3d: 0.00 p95_2d: 0.00 p99_3d: 0.00 p99_2d: 0.00 nfail3: 0.00 nfail2: 0.00;n_seg: 0
+No.(39) std: 2.40 est rms: 0.67 pred rms: 0.90 devp: 0.69; p95_3d: 0.90 p95_2d: 0.84 p99_3d: 1.13 p99_2d: 1.09 nfail3: 0.81 nfail2: 0.20;n_seg: 58
+No.(40) std: 1.41 est rms: 1.13 pred rms: 1.18 devp: 0.58; p95_3d: 0.63 p95_2d: 0.91 p99_3d: 0.79 p99_2d: 1.20 nfail3: 1.85 nfail2: 0.00;n_seg: 48
+No.(41) std: 1.20 est rms: 0.58 pred rms: 0.58 devp: 0.45; p95_3d: 0.75 p95_2d: 0.69 p99_3d: 0.90 p99_2d: 0.86 nfail3: 0.00 nfail2: 0.00;n_seg: 71
+No.(42) std: 4.79 est rms: 0.99 pred rms: 1.69 devp: 1.28; p95_3d: 1.18 p95_2d: 1.17 p99_3d: 1.45 p99_2d: 1.51 nfail3: 9.17 nfail2: 4.92;n_seg: 45
+No.(43) std: 2.91 est rms: 0.63 pred rms: 0.84 devp: 0.64; p95_3d: 0.88 p95_2d: 0.82 p99_3d: 1.09 p99_2d: 1.03 nfail3: 0.03 nfail2: 0.00;n_seg: 102
+No.(44) std: 0.00 est rms: 0.00 pred rms: 0.00 devp: 0.00; p95_3d: 0.00 p95_2d: 0.00 p99_3d: 0.00 p99_2d: 0.00 nfail3: 0.00 nfail2: 0.00;n_seg: 0
+No.(45) std: 3.27 est rms: 0.56 pred rms: 0.74 devp: 0.63; p95_3d: 0.91 p95_2d: 0.75 p99_3d: 1.11 p99_2d: 0.99 nfail3: 0.03 nfail2: 0.01;n_seg: 135
+No.(46) std: 1.90 est rms: 0.63 pred rms: 0.73 devp: 0.59; p95_3d: 0.86 p95_2d: 0.74 p99_3d: 1.06 p99_2d: 0.95 nfail3: 0.05 nfail2: 0.02;n_seg: 56
+results: n_segments=3325, percentage=0.93, std of the positions: 2.058;
+ Patient_averaged: 3D estimation error, 0.778, 3D rms error: 0.910, 2D rms error: 0.623 
+ percentile error:  p95_3d=0.83, p95_2d=0.81, p99_3d=1.03, p99_2d=1.03, nfail3: 1.10  nfail2: 0.18 
+ end
+Beginning - parameters: 
+  is_pre: 1, is_block: 0, factor1: 4.0, factor2: 0.2, factor3: 1.4, seg_err: 0.5,
+  lag_time: 460, linearity constraint: 0.01, amplitude variation: 4 
+No.(1) std: 2.73 est rms: 0.64 pred rms: 1.82 devp: 1.62; p95_3d: 1.49 p95_2d: 1.16 p99_3d: 1.80 p99_2d: 1.47 nfail3: 5.74 nfail2: 3.19;n_seg: 36
+No.(2) std: 2.36 est rms: 0.64 pred rms: 1.17 devp: 0.96; p95_3d: 1.03 p95_2d: 1.05 p99_3d: 1.28 p99_2d: 1.42 nfail3: 0.34 nfail2: 0.22;n_seg: 64
+No.(3) std: 1.29 est rms: 0.72 pred rms: 1.21 devp: 0.98; p95_3d: 1.05 p95_2d: 0.97 p99_3d: 1.26 p99_2d: 1.22 nfail3: 2.43 nfail2: 1.02;n_seg: 66
+No.(4) std: 1.52 est rms: 0.57 pred rms: 0.86 devp: 0.72; p95_3d: 0.94 p95_2d: 0.82 p99_3d: 1.17 p99_2d: 1.06 nfail3: 0.23 nfail2: 0.07;n_seg: 219
+No.(5) std: 2.50 est rms: 0.90 pred rms: 1.49 devp: 1.13; p95_3d: 1.09 p95_2d: 1.08 p99_3d: 1.33 p99_2d: 1.36 nfail3: 3.09 nfail2: 1.37;n_seg: 210
+No.(6) std: 2.39 est rms: 0.68 pred rms: 1.40 devp: 1.07; p95_3d: 1.03 p95_2d: 1.15 p99_3d: 1.26 p99_2d: 1.44 nfail3: 1.81 nfail2: 0.32;n_seg: 40
+No.(7) std: 0.68 est rms: 0.57 pred rms: 0.63 devp: 0.51; p95_3d: 0.77 p95_2d: 0.74 p99_3d: 0.92 p99_2d: 0.92 nfail3: 0.00 nfail2: 0.00;n_seg: 187
+No.(8) std: 0.77 est rms: 0.87 pred rms: 0.90 devp: 0.56; p95_3d: 0.66 p95_2d: 0.87 p99_3d: 0.81 p99_2d: 1.08 nfail3: 0.01 nfail2: 0.00;n_seg: 72
+No.(9) std: 1.78 est rms: 0.58 pred rms: 1.08 devp: 0.94; p95_3d: 1.09 p95_2d: 0.87 p99_3d: 1.32 p99_2d: 1.15 nfail3: 0.18 nfail2: 0.07;n_seg: 76
+No.(10) std: 2.65 est rms: 1.06 pred rms: 1.93 devp: 1.41; p95_3d: 1.07 p95_2d: 1.34 p99_3d: 1.30 p99_2d: 1.68 nfail3: 11.56 nfail2: 4.23;n_seg: 58
+No.(11) std: 2.32 est rms: 0.59 pred rms: 1.26 devp: 1.10; p95_3d: 1.16 p95_2d: 0.99 p99_3d: 1.46 p99_2d: 1.37 nfail3: 0.95 nfail2: 0.67;n_seg: 133
+No.(12) std: 0.91 est rms: 0.74 pred rms: 0.85 devp: 0.57; p95_3d: 0.70 p95_2d: 0.85 p99_3d: 0.84 p99_2d: 1.04 nfail3: 0.16 nfail2: 0.04;n_seg: 78
+No.(13) std: 1.46 est rms: 0.53 pred rms: 0.93 devp: 0.84; p95_3d: 1.08 p95_2d: 0.80 p99_3d: 1.30 p99_2d: 1.02 nfail3: 0.21 nfail2: 0.11;n_seg: 176
+No.(14) std: 1.26 est rms: 0.69 pred rms: 0.84 devp: 0.65; p95_3d: 0.85 p95_2d: 0.84 p99_3d: 1.02 p99_2d: 1.07 nfail3: 0.05 nfail2: 0.00;n_seg: 72
+No.(15) std: 4.33 est rms: 0.65 pred rms: 2.22 devp: 1.90; p95_3d: 1.52 p95_2d: 1.40 p99_3d: 1.92 p99_2d: 1.92 nfail3: 16.97 nfail2: 11.04;n_seg: 79
+No.(16) std: 0.00 est rms: 0.00 pred rms: 0.00 devp: 0.00; p95_3d: 0.00 p95_2d: 0.00 p99_3d: 0.00 p99_2d: 0.00 nfail3: 0.00 nfail2: 0.00;n_seg: 0
+No.(17) std: 3.96 est rms: 0.92 pred rms: 2.01 devp: 1.55; p95_3d: 1.21 p95_2d: 1.37 p99_3d: 1.53 p99_2d: 1.89 nfail3: 12.20 nfail2: 5.01;n_seg: 54
+No.(18) std: 2.69 est rms: 0.78 pred rms: 1.76 devp: 1.34; p95_3d: 1.10 p95_2d: 1.26 p99_3d: 1.37 p99_2d: 1.74 nfail3: 8.31 nfail2: 2.31;n_seg: 13
+No.(19) std: 0.39 est rms: 0.73 pred rms: 0.67 devp: 0.42; p95_3d: 0.62 p95_2d: 0.73 p99_3d: 0.76 p99_2d: 0.89 nfail3: 0.00 nfail2: 0.00;n_seg: 22
+No.(20) std: 3.94 est rms: 0.58 pred rms: 2.35 devp: 2.04; p95_3d: 1.55 p95_2d: 1.40 p99_3d: 1.98 p99_2d: 1.95 nfail3: 20.32 nfail2: 13.76;n_seg: 40
+No.(21) std: 0.39 est rms: 0.67 pred rms: 0.62 devp: 0.44; p95_3d: 0.70 p95_2d: 0.73 p99_3d: 0.85 p99_2d: 0.89 nfail3: 0.00 nfail2: 0.00;n_seg: 43
+No.(22) std: 3.84 est rms: 0.77 pred rms: 2.52 devp: 2.29; p95_3d: 1.85 p95_2d: 1.23 p99_3d: 2.32 p99_2d: 1.57 nfail3: 25.84 nfail2: 20.37;n_seg: 34
+No.(23) std: 1.55 est rms: 0.99 pred rms: 1.26 devp: 0.78; p95_3d: 0.77 p95_2d: 1.04 p99_3d: 0.93 p99_2d: 1.29 nfail3: 0.95 nfail2: 0.00;n_seg: 38
+No.(24) std: 0.00 est rms: 0.00 pred rms: 0.00 devp: 0.00; p95_3d: 0.00 p95_2d: 0.00 p99_3d: 0.00 p99_2d: 0.00 nfail3: 0.00 nfail2: 0.00;n_seg: 0
+No.(25) std: 1.81 est rms: 1.75 pred rms: 1.94 devp: 1.09; p95_3d: 0.84 p95_2d: 1.23 p99_3d: 1.00 p99_2d: 1.56 nfail3: 7.08 nfail2: 0.19;n_seg: 102
+No.(26) std: 1.66 est rms: 0.57 pred rms: 1.04 devp: 0.89; p95_3d: 1.02 p95_2d: 0.90 p99_3d: 1.29 p99_2d: 1.20 nfail3: 1.12 nfail2: 0.84;n_seg: 82
+No.(27) std: 2.89 est rms: 0.54 pred rms: 1.65 devp: 1.46; p95_3d: 1.36 p95_2d: 1.15 p99_3d: 1.74 p99_2d: 1.54 nfail3: 5.10 nfail2: 3.46;n_seg: 74
+No.(28) std: 2.23 est rms: 1.26 pred rms: 1.71 devp: 1.18; p95_3d: 1.04 p95_2d: 1.22 p99_3d: 1.33 p99_2d: 1.59 nfail3: 4.65 nfail2: 0.52;n_seg: 88
+No.(29) std: 3.35 est rms: 0.96 pred rms: 1.68 devp: 1.29; p95_3d: 1.19 p95_2d: 1.14 p99_3d: 1.51 p99_2d: 1.52 nfail3: 4.19 nfail2: 1.70;n_seg: 166
+No.(30) std: 1.04 est rms: 0.64 pred rms: 0.83 devp: 0.61; p95_3d: 0.75 p95_2d: 0.86 p99_3d: 0.93 p99_2d: 1.09 nfail3: 0.05 nfail2: 0.00;n_seg: 87
+No.(31) std: 0.23 est rms: 0.66 pred rms: 0.58 devp: 0.40; p95_3d: 0.68 p95_2d: 0.69 p99_3d: 0.83 p99_2d: 0.83 nfail3: 0.00 nfail2: 0.00;n_seg: 35
+No.(32) std: 1.38 est rms: 0.87 pred rms: 1.49 devp: 1.14; p95_3d: 1.04 p95_2d: 1.16 p99_3d: 1.25 p99_2d: 1.45 nfail3: 1.39 nfail2: 0.33;n_seg: 85
+No.(33) std: 3.30 est rms: 1.64 pred rms: 2.47 devp: 1.68; p95_3d: 1.28 p95_2d: 1.45 p99_3d: 1.53 p99_2d: 1.79 nfail3: 18.20 nfail2: 4.28;n_seg: 102
+No.(34) std: 1.23 est rms: 0.59 pred rms: 0.82 devp: 0.64; p95_3d: 0.83 p95_2d: 0.85 p99_3d: 1.01 p99_2d: 1.06 nfail3: 0.10 nfail2: 0.10;n_seg: 54
+No.(35) std: 1.25 est rms: 0.65 pred rms: 0.89 devp: 0.71; p95_3d: 0.89 p95_2d: 0.89 p99_3d: 1.08 p99_2d: 1.11 nfail3: 0.00 nfail2: 0.00;n_seg: 28
+No.(36) std: 0.84 est rms: 0.82 pred rms: 1.05 devp: 0.68; p95_3d: 0.76 p95_2d: 0.96 p99_3d: 0.90 p99_2d: 1.19 nfail3: 0.00 nfail2: 0.00;n_seg: 26
+No.(37) std: 1.63 est rms: 0.63 pred rms: 1.21 devp: 0.98; p95_3d: 1.04 p95_2d: 0.99 p99_3d: 1.27 p99_2d: 1.35 nfail3: 1.63 nfail2: 0.68;n_seg: 71
+No.(38) std: 0.00 est rms: 0.00 pred rms: 0.00 devp: 0.00; p95_3d: 0.00 p95_2d: 0.00 p99_3d: 0.00 p99_2d: 0.00 nfail3: 0.00 nfail2: 0.00;n_seg: 0
+No.(39) std: 2.40 est rms: 0.67 pred rms: 1.66 devp: 1.39; p95_3d: 1.21 p95_2d: 1.16 p99_3d: 1.47 p99_2d: 1.58 nfail3: 9.29 nfail2: 5.44;n_seg: 58
+No.(40) std: 1.41 est rms: 1.08 pred rms: 1.45 devp: 0.94; p95_3d: 0.71 p95_2d: 1.19 p99_3d: 0.87 p99_2d: 1.61 nfail3: 6.28 nfail2: 2.43;n_seg: 48
+No.(41) std: 1.20 est rms: 0.58 pred rms: 0.87 devp: 0.73; p95_3d: 0.91 p95_2d: 0.86 p99_3d: 1.11 p99_2d: 1.09 nfail3: 0.32 nfail2: 0.27;n_seg: 71
+No.(42) std: 4.79 est rms: 0.95 pred rms: 2.82 devp: 2.27; p95_3d: 1.55 p95_2d: 1.57 p99_3d: 1.91 p99_2d: 1.92 nfail3: 42.30 nfail2: 29.93;n_seg: 45
+No.(43) std: 2.91 est rms: 0.64 pred rms: 1.65 devp: 1.35; p95_3d: 1.26 p95_2d: 1.18 p99_3d: 1.54 p99_2d: 1.48 nfail3: 4.55 nfail2: 1.61;n_seg: 102
+No.(44) std: 0.00 est rms: 0.00 pred rms: 0.00 devp: 0.00; p95_3d: 0.00 p95_2d: 0.00 p99_3d: 0.00 p99_2d: 0.00 nfail3: 0.00 nfail2: 0.00;n_seg: 0
+No.(45) std: 3.27 est rms: 0.56 pred rms: 1.54 devp: 1.38; p95_3d: 1.32 p95_2d: 1.08 p99_3d: 1.64 p99_2d: 1.51 nfail3: 4.10 nfail2: 3.07;n_seg: 135
+No.(46) std: 1.90 est rms: 0.62 pred rms: 1.19 devp: 1.04; p95_3d: 1.11 p95_2d: 0.93 p99_3d: 1.43 p99_2d: 1.27 nfail3: 0.63 nfail2: 0.30;n_seg: 56
+results: n_segments=3325, percentage=0.93, std of the positions: 2.058;
+ Patient_averaged: 3D estimation error, 0.775, 3D rms error: 1.389, 2D rms error: 1.087 
+ percentile error:  p95_3d=1.05, p95_2d=1.05, p99_3d=1.29, p99_2d=1.36, nfail3: 5.29  nfail2: 2.83 
+ end
